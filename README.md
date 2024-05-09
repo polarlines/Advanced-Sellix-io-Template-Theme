@@ -7,7 +7,8 @@ Upgrade your shop with a clean and powerful sellix.io website template
 ## How to Download
 To download, please visit: https://builtbybit.com/resources/advanced-sellix-io-template-theme.41407/
 ## Preview
-![Advanced Sellix io Template Theme](https://raw.githubusercontent.com/polarlines/Advanced-Sellix-io-Template-Theme/main/Advanced-Sellix-io-Template-Theme.jpg)
+![Sellix Theme](https://raw.githubusercontent.com/polarlines/Advanced-Sellix-io-Template-Theme/main/Advanced-Sellix-io-Template-Theme.jpg)
+![Sellix Theme Preview](https://raw.githubusercontent.com/polarlines/Advanced-Sellix-io-Template-Theme/main/Advanced-Sellix-io-Template-Theme-Preview.png)
 
 
 ## Demo Videos
