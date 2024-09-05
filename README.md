@@ -1,7 +1,7 @@
 
 # Advanced Sellix io Template Theme v1.0
 
-Upgrade your shop with a clean and powerful sellix.io website template
+Upgrade your shop with a clean and powerful sellix.io website template.
 Effortlessly showcase your Sellix products on your personal website with a custom theme.
 
 
